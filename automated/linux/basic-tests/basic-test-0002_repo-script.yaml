@@ -9,7 +9,7 @@ metadata:
     scope:
         - functional
     devices:
-        - Core3_Ostfildern_001
+        - Core3_z.han
 run:
     steps:
         - cd automated/linux/basic-tests
